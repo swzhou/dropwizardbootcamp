@@ -2,7 +2,6 @@ package com.example.helloworld.resources;
 
 import com.example.helloworld.core.Saying;
 import io.dropwizard.testing.junit.ResourceTestRule;
-import org.junit.Before;
 import org.junit.ClassRule;
 import org.junit.Test;
 
